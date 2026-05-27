@@ -22,5 +22,5 @@ Test lien image :
 
 
 
-<img src="images/gimp-3\\\_jeTKXlgVaE.png" width="500"/>
+<img src="images/gimp-3\_jeTKXlgVaE.png"/>
 
