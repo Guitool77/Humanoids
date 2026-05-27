@@ -14,5 +14,13 @@ Test lien image :
 
 
 
+<img src="images/gimp-3\_jeTKXlgVaE.png" width="500"/>
 
+
+
+\_\_\_
+
+
+
+<img src="images/gimp-3\\\_jeTKXlgVaE.png" width="500"/>
 
