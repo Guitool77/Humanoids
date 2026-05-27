@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-05-26T17:48:22.831Z",
+  "board": {
+    "name": "NOAH Tech shapes",
+    "url": "https://fr.pinterest.com/handybionic/noah-tech-shapes/",
+    "id": ""
+  },
+  "scan": {
+    "expectedCount": 0,
+    "collectedCount": 180,
+    "missingCount": 0,
+    "finalDomPinCount": 24,
+    "boardUrl": "https://fr.pinterest.com/handybionic/noah-tech-shapes/"
+  },
+  "results": {
+    "requestedCount": 180,
+    "downloadedCount": 180,
+    "failedCount": 0
+  },
+  "failures": []
+}
